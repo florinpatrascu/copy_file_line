@@ -9,11 +9,11 @@ snippets, reporting issues, or linking specific lines in conversations.
 
 ## Features
 
-**Keyboard Shortcut** – Press `Ctrl+Shift+C` to copy instantly (customizable)
-**Menu Access** – Also available via **Project > Tools > Copy file:line**
-**Configurable** – Change the shortcut key and modifiers in plugin settings
-**Zero Friction** – Works seamlessly with Godot's script editor
-**Standard Format** – Copies in `res://path/file.gd:line` format
+- **Keyboard Shortcut** – Press `Ctrl+Shift+C` to copy instantly (customizable)
+- **Menu Access** – Also available via **Project > Tools > Copy file:line**
+- **Configurable** – Change the shortcut key and modifiers in plugin settings
+- **Zero Friction** – Works seamlessly with Godot's script editor
+- **Standard Format** – Copies in `res://path/file.gd:line` format
 
 ## Installation
 
