@@ -1,6 +1,8 @@
+<p><img src="cfl.icon.128.png" width="128" height="128" align="left" style="margin-right: 10px;">
 # CopyFileLine
+</p>
 
-`CopyFileLine` is a lightweight Godot 4.5.1+ editor plugin designed to make
+**CopyFileLine** is a lightweight Godot 4.5.1+ editor plugin designed to make
 sharing code, reporting bugs, and documenting workflows faster and easier.
 
 No more manual entry of file paths and line numbers. With one keystroke,
