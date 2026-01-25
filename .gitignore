@@ -23,6 +23,3 @@ Exports/
 .zed/
 .idea/
 .DS_Store
-
-# Plugin specific
-addons/script-ide/*
